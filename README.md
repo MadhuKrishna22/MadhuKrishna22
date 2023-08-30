@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadhuKrishna22
+- 👋 Hi, I’m @MadhuKrishna
 - 👀 I’m interested in ... Data Analytics
 - 🌱 I’m currently learning ... Tableau
 
